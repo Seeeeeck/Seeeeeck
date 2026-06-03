@@ -1,10 +1,4 @@
 
-<p align="center">
-  <em>Desarrollador de software </em>
-</p>
-
----
-
 ## 👨‍💻 Sobre mí
 
 Desarrollador de software con experiencia en aplicaciones móviles y web, especializado en **React Native**, **React** y **Laravel**.

@@ -1,4 +1,3 @@
-<h1 align="center">¡Hola! 👋 Soy Franco Zambelli</h1>
 
 <p align="center">
   <em>Desarrollador de software </em>

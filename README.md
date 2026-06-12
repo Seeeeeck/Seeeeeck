@@ -63,7 +63,3 @@ Me enfoco en resolver problemas reales del negocio mediante soluciones eficiente
 - 🎯 Foco en resolver el problema del negocio, no solo en escribir código
 
 ---
-
-<p align="center">
-  <em>Siempre aprendiendo, siempre construyendo.</em> 🚀
-</p>

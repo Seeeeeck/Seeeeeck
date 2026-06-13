@@ -52,10 +52,7 @@ Me enfoco en resolver problemas reales del negocio mediante soluciones eficiente
 
 
 ---
-
-## 🎯 Filosofía de desarrollo
-
-> *"El mejor código no es el más corto ni el más rápido de escribir, sino el que cualquier persona del equipo puede leer, entender y mantener mañana."*
+## Metodología
 
 - 🧼 **Clean Code** y principios **SOLID** aplicados en el día a día
 - 📐 **Spec-Driven Development** para conectar requisitos con implementación

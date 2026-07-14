@@ -24,7 +24,7 @@ Me enfoco en resolver problemas reales del negocio mediante soluciones eficiente
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React Native"/>
   <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite"/>
-  <img src="https://cdn.simpleicons.org/expo" width="40" height="40" alt="Expo"/>
+  <img src="https://cdn.simpleicons.org/expo/000020/FFFFFF" width="40" height="40" alt="Expo"/>
 </p>
 
 <h3 align="center">Backend</h3>

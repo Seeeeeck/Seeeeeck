@@ -15,8 +15,8 @@ Me enfoco en resolver problemas reales del negocio mediante soluciones eficiente
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=reactquery" width="40" height="40" alt="TanStack Query"/>
-  <img src="https://skillicons.dev/icons?i=zustand" width="40" height="40" alt="Zustand"/>
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" height="40" alt="TanStack Query"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zustand/zustand-original.svg" width="40" height="40" alt="Zustand"/>
   <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI"/>
 </p>
 
@@ -24,7 +24,7 @@ Me enfoco en resolver problemas reales del negocio mediante soluciones eficiente
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React Native"/>
   <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=expo" width="40" height="40" alt="Expo"/>
+  <img src="https://cdn.simpleicons.org/expo" width="40" height="40" alt="Expo"/>
 </p>
 
 <h3 align="center">Backend</h3>

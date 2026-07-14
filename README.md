@@ -1,3 +1,5 @@
+<h2 align="center">👨‍💻 Sobre mí</h2>
+
 <p align="center">Perfil de CodeWars: https://www.codewars.com/users/fz4mbelli</p>
 
 Desarrollador de software con experiencia en aplicaciones móviles y web, especializado en **React Native**, **React** y **Laravel**.
@@ -7,40 +9,40 @@ Me enfoco en resolver problemas reales del negocio mediante soluciones eficiente
 
 ---
 
-## 🛠️ Tecnologías
+<h2 align="center">🛠️ Tecnologías</h2>
 
-### Frontend
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=reactquery" width="40" height="40" alt="TanStack Query"/>
   <img src="https://skillicons.dev/icons?i=zustand" width="40" height="40" alt="Zustand"/>
-  <img src="https://cdn.simpleicons.org/mui/007FFF" width="40" height="40" alt="Material UI"/>
+  <img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="Material UI"/>
 </p>
 
-### Mobile
+<h3 align="center">Mobile</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React Native"/>
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" height="40" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React Native"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite"/>
   <img src="https://skillicons.dev/icons?i=expo" width="40" height="40" alt="Expo"/>
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="Laravel"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/>
 </p>
 
-### Herramientas & Prácticas
+<h3 align="center">Herramientas & Prácticas</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude Code"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
 </p>
 
 ---
 
-## Metodología
+<h2 align="center">Metodología</h2>
+
 - 🧼 **Clean Code** y principios **SOLID** aplicados en el día a día
 - 🤖 Uso de **Claude Code** como copiloto para acelerar y mejorar la calidad del desarrollo
 - 🎯 Foco en resolver el problema del negocio, no solo en escribir código

@@ -1,6 +1,6 @@
 
 ## 👨‍💻 Sobre mí
-
+# Pefil de CodeWars: https://www.codewars.com/users/fz4mbelli
 Desarrollador de software con experiencia en aplicaciones móviles y web, especializado en **React Native**, **React** y **Laravel**.
 
 He trabajado en el desarrollo de apps con integración de cámara, geolocalización y almacenamiento local (SQLite), así como en arquitecturas basadas en **microfrontends** utilizando herramientas como TanStack Query y Zustand.

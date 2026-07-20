@@ -1,6 +1,6 @@
 <h2 align="center">👨‍💻 Sobre mí</h2>
 
-<p align="center">Perfil de CodeWars: https://www.codewars.com/users/fz4mbelli</p>
+
 
 Desarrollador de software con experiencia en aplicaciones móviles y web, especializado en **React Native**, **React** y **Laravel**.
 He trabajado en el desarrollo de apps móviles con almacenamiento local (SQLite) usando Expo, así como en arquitecturas basadas en **microfrontends** utilizando herramientas como TanStack Query y Zustand.
